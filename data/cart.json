@@ -1,1 +1,8 @@
-{"products":[{"id":"0.9871062600684672","qty":2},{"qty":1},{"qty":1}],"totalPrice":null}
+{
+  "products": [
+    { "id": "0.9871062600684672", "qty": 2 },
+    { "qty": 1 },
+    { "qty": 1 }
+  ],
+  "totalPrice": null
+}
